@@ -7,29 +7,103 @@ from db import get_connection, query, execute
 st.set_page_config(page_title="Bataatas | Management System", page_icon="🥔", layout="wide")
 
 st.markdown("""
+
 <style>
-/* Readability improvements: larger type, more breathing room, restrained page width */
-html, body, [class*="st-"] { font-size: 17px; }
-.block-container { max-width: 1600px; padding-top: 2rem; padding-bottom: 3rem; padding-left: 2.5rem; padding-right: 2.5rem; }
-h1 { font-size: 2.35rem !important; line-height: 1.2 !important; }
-h2 { font-size: 1.8rem !important; }
-h3 { font-size: 1.45rem !important; }
-h4 { font-size: 1.2rem !important; }
-p, label, [data-testid="stCaptionContainer"] { font-size: 1rem !important; }
-[data-testid="stMetric"] { background: #f7f8fa; border: 1px solid #e1e5eb; padding: 20px 18px; border-radius: 12px; min-height: 112px; }
-[data-testid="stMetricLabel"] { font-size: 1rem !important; }
-[data-testid="stMetricValue"] { font-size: 1.8rem !important; }
-[data-testid="stSidebar"] { background: #fafafa; }
-[data-testid="stSidebar"] * { font-size: 1rem !important; }
-[data-testid="stDataFrame"] { font-size: 0.95rem !important; }
-[data-testid="stDataFrame"] [role="gridcell"], [data-testid="stDataFrame"] [role="columnheader"] { font-size: 0.95rem !important; }
-.stButton button, [data-testid="stFormSubmitButton"] button { min-height: 2.8rem; font-size: 1rem; }
-.small-note { color:#777; font-size:0.95rem; }
+/* Consistent dark theme and readable text */
+html, body, [class*="st-"] {
+    font-size: 17px;
+}
+
+.block-container {
+    max-width: 1600px;
+    padding: 2rem 2.5rem 3rem 2.5rem;
+}
+
+/* Headings and general text */
+h1 {
+    font-size: 2.35rem !important;
+    line-height: 1.2 !important;
+    color: #ffffff !important;
+}
+
+h2 {
+    font-size: 1.8rem !important;
+    color: #ffffff !important;
+}
+
+h3 {
+    font-size: 1.45rem !important;
+    color: #ffffff !important;
+}
+
+h4, p, label,
+[data-testid="stCaptionContainer"] {
+    color: #e5e7eb !important;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"],
+[data-testid="stSidebar"] > div {
+    background-color: #171923 !important;
+}
+
+[data-testid="stSidebar"] * {
+    color: #f3f4f6 !important;
+    font-size: 1rem !important;
+}
+
+/* Metric cards */
+[data-testid="stMetric"] {
+    background-color: #252a36 !important;
+    border: 1px solid #3b4252 !important;
+    padding: 20px 18px !important;
+    border-radius: 12px;
+    min-height: 112px;
+}
+
+[data-testid="stMetricLabel"],
+[data-testid="stMetricLabel"] p {
+    color: #d1d5db !important;
+    font-size: 1rem !important;
+}
+
+[data-testid="stMetricValue"],
+[data-testid="stMetricValue"] div {
+    color: #ffffff !important;
+    font-size: 1.8rem !important;
+}
+
+/* Tables */
+[data-testid="stDataFrame"] {
+    font-size: 0.95rem !important;
+}
+
+/* Buttons */
+.stButton button,
+[data-testid="stFormSubmitButton"] button {
+    min-height: 2.8rem;
+    font-size: 1rem;
+}
+
+/* Small notes */
+.small-note {
+    color: #cbd5e1 !important;
+    font-size: 0.95rem;
+}
+
+/* Responsive layout */
 @media (max-width: 900px) {
-  .block-container { padding-left: 1rem; padding-right: 1rem; }
-  html, body, [class*="st-"] { font-size: 16px; }
+    .block-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    html, body, [class*="st-"] {
+        font-size: 16px;
+    }
 }
 </style>
+
 """, unsafe_allow_html=True)
 
 st.title("🥔 Bataatas Business Management")
