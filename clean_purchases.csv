@@ -1,0 +1,1412 @@
+purchase_date,branch_name,item_name,amount
+2026-09-01,Manjeri,Maida,82.2
+2026-09-01,Manjeri,Sugar,44.9
+2026-09-01,Manjeri,Petrol,122.3
+2026-09-01,Manjeri,Chicken,342.7
+2026-09-01,Manjeri,Oil,456.2
+2026-09-01,Manjeri,Branding,226.3
+2026-09-01,Manjeri,Nsquare Farms,1026.6
+2026-09-01,Manjeri,French Fries,1484.9
+2026-09-01,Manjeri,Milk,119.3
+2026-09-01,Manjeri,Recharge,394.0
+2026-09-01,Manjeri,Sauce,72.6
+2026-09-01,Manjeri,Ice Cubes,55.4
+2026-09-02,Manjeri,Petrol,102.0
+2026-09-02,Manjeri,Branding,169.5
+2026-09-02,Manjeri,Nsquare Farms,860.4
+2026-09-02,Manjeri,French Fries,1629.4
+2026-09-02,Manjeri,Milk,55.3
+2026-09-02,Manjeri,Recharge,179.0
+2026-09-02,Manjeri,Ice Cubes,38.8
+2026-09-03,Manjeri,Maida,75.5
+2026-09-03,Manjeri,Sugar,42.0
+2026-09-03,Manjeri,Lemon,33.5
+2026-09-03,Manjeri,Petrol,124.2
+2026-09-03,Manjeri,Chicken,313.3
+2026-09-03,Manjeri,Cheese,355.7
+2026-09-03,Manjeri,Branding,308.0
+2026-09-03,Manjeri,French Fries,1410.6
+2026-09-03,Manjeri,Ozone Foods,395.3
+2026-09-03,Manjeri,Ice Cubes,74.6
+2026-09-04,Manjeri,Maida,88.6
+2026-09-04,Manjeri,Chicken,388.7
+2026-09-04,Manjeri,Branding,270.1
+2026-09-04,Manjeri,French Fries,1688.2
+2026-09-04,Manjeri,Milk,143.1
+2026-09-04,Manjeri,Drawings,972.0
+2026-09-04,Manjeri,Sauce,89.5
+2026-09-04,Manjeri,Ice Cubes,56.4
+2026-09-05,Manjeri,Maida,73.9
+2026-09-05,Manjeri,Lemon,52.4
+2026-09-05,Manjeri,Cheese,268.0
+2026-09-05,Manjeri,Oil,650.1
+2026-09-05,Manjeri,Branding,254.5
+2026-09-05,Manjeri,Nsquare Farms,1217.1
+2026-09-05,Manjeri,French Fries,1669.9
+2026-09-05,Manjeri,Ozone Foods,555.8
+2026-09-05,Manjeri,Recharge,172.8
+2026-09-05,Manjeri,Drawings,1094.4
+2026-09-05,Manjeri,Sauce,42.7
+2026-09-05,Manjeri,Ice Cubes,69.0
+2026-09-06,Manjeri,Maida,41.0
+2026-09-06,Manjeri,Petrol,137.7
+2026-09-06,Manjeri,Oil,810.9
+2026-09-06,Manjeri,Branding,204.8
+2026-09-06,Manjeri,Nsquare Farms,1355.7
+2026-09-06,Manjeri,French Fries,853.4
+2026-09-06,Manjeri,Ozone Foods,437.1
+2026-09-06,Manjeri,Milk,55.0
+2026-09-06,Manjeri,Recharge,267.2
+2026-09-06,Manjeri,Drawings,656.3
+2026-09-06,Manjeri,Sauce,46.7
+2026-09-07,Manjeri,Sugar,35.5
+2026-09-07,Manjeri,Lemon,44.0
+2026-09-07,Manjeri,Cheese,465.1
+2026-09-07,Manjeri,Nsquare Farms,1341.2
+2026-09-07,Manjeri,Milk,95.0
+2026-09-07,Manjeri,Drawings,1220.1
+2026-09-07,Manjeri,Ice Cubes,52.6
+2026-09-08,Manjeri,Maida,58.9
+2026-09-08,Manjeri,Chicken,785.0
+2026-09-08,Manjeri,Oil,1009.5
+2026-09-08,Manjeri,Nsquare Farms,1294.5
+2026-09-08,Manjeri,French Fries,1282.4
+2026-09-08,Manjeri,Ozone Foods,405.9
+2026-09-08,Manjeri,Milk,78.6
+2026-09-08,Manjeri,Recharge,164.1
+2026-09-08,Manjeri,Sauce,95.2
+2026-09-09,Manjeri,Maida,67.2
+2026-09-09,Manjeri,Sugar,79.9
+2026-09-09,Manjeri,Lemon,57.6
+2026-09-09,Manjeri,Petrol,116.1
+2026-09-09,Manjeri,Cheese,443.0
+2026-09-09,Manjeri,Oil,702.4
+2026-09-09,Manjeri,Nsquare Farms,660.6
+2026-09-09,Manjeri,Ozone Foods,251.5
+2026-09-09,Manjeri,Milk,122.0
+2026-09-09,Manjeri,Recharge,305.1
+2026-09-09,Manjeri,Drawings,1304.1
+2026-09-09,Manjeri,Sauce,52.8
+2026-09-09,Manjeri,Ice Cubes,44.2
+2026-09-10,Manjeri,Maida,74.0
+2026-09-10,Manjeri,Lemon,42.0
+2026-09-10,Manjeri,Petrol,67.6
+2026-09-10,Manjeri,Chicken,364.4
+2026-09-10,Manjeri,Branding,145.6
+2026-09-10,Manjeri,French Fries,902.3
+2026-09-10,Manjeri,Ozone Foods,295.5
+2026-09-10,Manjeri,Milk,111.7
+2026-09-10,Manjeri,Drawings,781.9
+2026-09-10,Manjeri,Sauce,61.5
+2026-09-10,Manjeri,Ice Cubes,89.8
+2026-09-11,Manjeri,Maida,73.7
+2026-09-11,Manjeri,Lemon,34.1
+2026-09-11,Manjeri,Cheese,442.1
+2026-09-11,Manjeri,Oil,1064.6
+2026-09-11,Manjeri,Branding,132.2
+2026-09-11,Manjeri,French Fries,1052.3
+2026-09-11,Manjeri,Ozone Foods,562.5
+2026-09-11,Manjeri,Drawings,1348.3
+2026-09-11,Manjeri,Sauce,51.0
+2026-09-11,Manjeri,Ice Cubes,48.6
+2026-09-12,Manjeri,Oil,434.0
+2026-09-12,Manjeri,Branding,184.4
+2026-09-12,Manjeri,Nsquare Farms,730.3
+2026-09-12,Manjeri,French Fries,1113.0
+2026-09-12,Manjeri,Ozone Foods,287.9
+2026-09-12,Manjeri,Milk,134.1
+2026-09-12,Manjeri,Drawings,1193.6
+2026-09-12,Manjeri,Ice Cubes,76.7
+2026-09-13,Manjeri,Maida,40.8
+2026-09-13,Manjeri,Cheese,337.4
+2026-09-13,Manjeri,Oil,707.3
+2026-09-13,Manjeri,Branding,316.5
+2026-09-13,Manjeri,French Fries,854.4
+2026-09-13,Manjeri,Ozone Foods,399.1
+2026-09-13,Manjeri,Recharge,392.4
+2026-09-13,Manjeri,Drawings,1465.5
+2026-09-13,Manjeri,Sauce,92.1
+2026-09-13,Manjeri,Ice Cubes,51.5
+2026-09-14,Manjeri,Maida,64.9
+2026-09-14,Manjeri,Sugar,62.3
+2026-09-14,Manjeri,Petrol,65.2
+2026-09-14,Manjeri,Oil,655.6
+2026-09-14,Manjeri,Branding,146.9
+2026-09-14,Manjeri,Nsquare Farms,597.0
+2026-09-14,Manjeri,French Fries,1908.0
+2026-09-14,Manjeri,Ozone Foods,368.9
+2026-09-14,Manjeri,Milk,126.9
+2026-09-14,Manjeri,Recharge,213.7
+2026-09-14,Manjeri,Sauce,83.3
+2026-09-14,Manjeri,Ice Cubes,81.6
+2026-09-15,Manjeri,Lemon,63.3
+2026-09-15,Manjeri,Petrol,112.3
+2026-09-15,Manjeri,Chicken,479.4
+2026-09-15,Manjeri,Cheese,443.2
+2026-09-15,Manjeri,Oil,694.7
+2026-09-15,Manjeri,Branding,283.3
+2026-09-15,Manjeri,Nsquare Farms,935.2
+2026-09-15,Manjeri,French Fries,1172.3
+2026-09-15,Manjeri,Milk,95.6
+2026-09-15,Manjeri,Ice Cubes,54.1
+2026-09-16,Manjeri,Maida,54.7
+2026-09-16,Manjeri,Sugar,46.7
+2026-09-16,Manjeri,Lemon,67.2
+2026-09-16,Manjeri,Chicken,316.8
+2026-09-16,Manjeri,Cheese,351.0
+2026-09-16,Manjeri,Branding,272.5
+2026-09-16,Manjeri,Nsquare Farms,1329.1
+2026-09-16,Manjeri,Ozone Foods,376.8
+2026-09-16,Manjeri,Recharge,355.3
+2026-09-16,Manjeri,Drawings,710.6
+2026-09-16,Manjeri,Ice Cubes,86.8
+2026-09-17,Manjeri,Cheese,441.6
+2026-09-17,Manjeri,Oil,1072.5
+2026-09-17,Manjeri,Branding,233.0
+2026-09-17,Manjeri,French Fries,1556.0
+2026-09-17,Manjeri,Milk,137.0
+2026-09-17,Manjeri,Drawings,752.5
+2026-09-17,Manjeri,Sauce,76.5
+2026-09-17,Manjeri,Ice Cubes,72.4
+2026-09-18,Manjeri,Maida,56.8
+2026-09-18,Manjeri,Sugar,52.1
+2026-09-18,Manjeri,Lemon,66.9
+2026-09-18,Manjeri,Petrol,105.2
+2026-09-18,Manjeri,Chicken,412.3
+2026-09-18,Manjeri,Cheese,315.7
+2026-09-18,Manjeri,Oil,518.6
+2026-09-18,Manjeri,Branding,155.3
+2026-09-18,Manjeri,French Fries,1318.0
+2026-09-18,Manjeri,Milk,91.7
+2026-09-18,Manjeri,Drawings,1514.8
+2026-09-18,Manjeri,Sauce,62.6
+2026-09-18,Manjeri,Ice Cubes,70.8
+2026-09-19,Manjeri,Maida,82.5
+2026-09-19,Manjeri,Sugar,57.9
+2026-09-19,Manjeri,Lemon,56.2
+2026-09-19,Manjeri,Oil,728.5
+2026-09-19,Manjeri,French Fries,1200.9
+2026-09-19,Manjeri,Ozone Foods,463.9
+2026-09-19,Manjeri,Milk,68.0
+2026-09-19,Manjeri,Recharge,195.5
+2026-09-19,Manjeri,Sauce,95.0
+2026-09-19,Manjeri,Ice Cubes,92.8
+2026-09-20,Manjeri,Maida,76.1
+2026-09-20,Manjeri,Sugar,44.3
+2026-09-20,Manjeri,Lemon,44.7
+2026-09-20,Manjeri,Oil,1047.4
+2026-09-20,Manjeri,Branding,122.6
+2026-09-20,Manjeri,Nsquare Farms,617.0
+2026-09-20,Manjeri,Milk,72.7
+2026-09-20,Manjeri,Recharge,156.6
+2026-09-20,Manjeri,Drawings,781.4
+2026-09-21,Manjeri,Maida,37.3
+2026-09-21,Manjeri,Sugar,47.8
+2026-09-21,Manjeri,Lemon,57.1
+2026-09-21,Manjeri,Cheese,370.0
+2026-09-21,Manjeri,Branding,171.6
+2026-09-21,Manjeri,Nsquare Farms,665.4
+2026-09-21,Manjeri,Ozone Foods,574.0
+2026-09-21,Manjeri,Milk,142.6
+2026-09-21,Manjeri,Recharge,281.4
+2026-09-22,Manjeri,Sugar,83.3
+2026-09-22,Manjeri,Lemon,50.9
+2026-09-22,Manjeri,Petrol,98.3
+2026-09-22,Manjeri,Chicken,559.5
+2026-09-22,Manjeri,Cheese,194.1
+2026-09-22,Manjeri,Oil,536.4
+2026-09-22,Manjeri,Branding,267.6
+2026-09-22,Manjeri,Ozone Foods,273.1
+2026-09-22,Manjeri,Milk,108.3
+2026-09-22,Manjeri,Recharge,211.3
+2026-09-22,Manjeri,Sauce,64.3
+2026-09-22,Manjeri,Ice Cubes,53.3
+2026-09-23,Manjeri,Maida,65.7
+2026-09-23,Manjeri,Sugar,70.9
+2026-09-23,Manjeri,Lemon,51.7
+2026-09-23,Manjeri,Petrol,84.6
+2026-09-23,Manjeri,Chicken,709.6
+2026-09-23,Manjeri,Cheese,419.8
+2026-09-23,Manjeri,Branding,258.9
+2026-09-23,Manjeri,French Fries,1046.6
+2026-09-23,Manjeri,Ozone Foods,476.1
+2026-09-23,Manjeri,Milk,86.5
+2026-09-23,Manjeri,Recharge,172.9
+2026-09-23,Manjeri,Drawings,1517.3
+2026-09-23,Manjeri,Sauce,47.9
+2026-09-24,Manjeri,Maida,94.3
+2026-09-24,Manjeri,Sugar,84.9
+2026-09-24,Manjeri,Lemon,53.7
+2026-09-24,Manjeri,Chicken,731.0
+2026-09-24,Manjeri,Branding,288.9
+2026-09-24,Manjeri,Nsquare Farms,827.2
+2026-09-24,Manjeri,Ozone Foods,571.6
+2026-09-24,Manjeri,Milk,57.3
+2026-09-24,Manjeri,Recharge,299.1
+2026-09-24,Manjeri,Ice Cubes,49.8
+2026-09-25,Manjeri,Maida,83.9
+2026-09-25,Manjeri,Sugar,87.9
+2026-09-25,Manjeri,Lemon,47.5
+2026-09-25,Manjeri,Petrol,136.7
+2026-09-25,Manjeri,Oil,701.4
+2026-09-25,Manjeri,Branding,216.0
+2026-09-25,Manjeri,Nsquare Farms,1104.8
+2026-09-25,Manjeri,French Fries,1768.4
+2026-09-25,Manjeri,Milk,142.6
+2026-09-25,Manjeri,Recharge,342.1
+2026-09-25,Manjeri,Drawings,1017.8
+2026-09-25,Manjeri,Sauce,66.4
+2026-09-25,Manjeri,Ice Cubes,80.3
+2026-09-26,Manjeri,Maida,95.5
+2026-09-26,Manjeri,Sugar,45.7
+2026-09-26,Manjeri,Lemon,77.1
+2026-09-26,Manjeri,Petrol,125.0
+2026-09-26,Manjeri,Chicken,603.9
+2026-09-26,Manjeri,Cheese,333.8
+2026-09-26,Manjeri,Oil,581.5
+2026-09-26,Manjeri,Milk,69.9
+2026-09-26,Manjeri,Ice Cubes,49.2
+2026-09-27,Manjeri,Maida,43.8
+2026-09-27,Manjeri,Sugar,81.9
+2026-09-27,Manjeri,Lemon,77.8
+2026-09-27,Manjeri,Petrol,146.2
+2026-09-27,Manjeri,Chicken,704.8
+2026-09-27,Manjeri,Oil,878.7
+2026-09-27,Manjeri,Nsquare Farms,1035.8
+2026-09-27,Manjeri,French Fries,824.4
+2026-09-27,Manjeri,Ozone Foods,403.4
+2026-09-27,Manjeri,Milk,87.5
+2026-09-27,Manjeri,Sauce,55.9
+2026-09-28,Manjeri,Maida,78.5
+2026-09-28,Manjeri,Sugar,79.0
+2026-09-28,Manjeri,Lemon,64.9
+2026-09-28,Manjeri,Cheese,384.0
+2026-09-28,Manjeri,Oil,853.0
+2026-09-28,Manjeri,Branding,270.5
+2026-09-28,Manjeri,Ozone Foods,303.4
+2026-09-28,Manjeri,Milk,133.3
+2026-09-28,Manjeri,Recharge,368.0
+2026-09-29,Manjeri,Maida,56.5
+2026-09-29,Manjeri,Petrol,123.3
+2026-09-29,Manjeri,Oil,1072.4
+2026-09-29,Manjeri,French Fries,843.0
+2026-09-29,Manjeri,Ozone Foods,614.9
+2026-09-29,Manjeri,Recharge,322.0
+2026-09-29,Manjeri,Drawings,667.8
+2026-09-29,Manjeri,Ice Cubes,54.1
+2026-09-30,Manjeri,Sugar,56.4
+2026-09-30,Manjeri,Lemon,52.6
+2026-09-30,Manjeri,Petrol,76.4
+2026-09-30,Manjeri,Chicken,697.4
+2026-09-30,Manjeri,Cheese,388.1
+2026-09-30,Manjeri,Oil,574.5
+2026-09-30,Manjeri,Ozone Foods,273.0
+2026-09-30,Manjeri,Milk,115.2
+2026-09-30,Manjeri,Drawings,1254.5
+2026-09-30,Manjeri,Sauce,56.8
+2026-09-30,Manjeri,Ice Cubes,93.1
+2026-10-01,Manjeri,Maida,88.1
+2026-10-01,Manjeri,Petrol,137.7
+2026-10-01,Manjeri,Chicken,685.5
+2026-10-01,Manjeri,Oil,1011.3
+2026-10-01,Manjeri,Branding,272.2
+2026-10-01,Manjeri,Nsquare Farms,1103.6
+2026-10-01,Manjeri,Milk,65.8
+2026-10-01,Manjeri,Recharge,158.1
+2026-10-01,Manjeri,Drawings,1520.8
+2026-10-01,Manjeri,Sauce,79.1
+2026-10-02,Manjeri,Maida,77.7
+2026-10-02,Manjeri,Sugar,80.3
+2026-10-02,Manjeri,Petrol,138.0
+2026-10-02,Manjeri,Oil,447.7
+2026-10-02,Manjeri,Branding,216.1
+2026-10-02,Manjeri,Nsquare Farms,634.4
+2026-10-02,Manjeri,Sauce,54.7
+2026-10-02,Manjeri,Ice Cubes,95.2
+2026-10-03,Manjeri,Maida,78.4
+2026-10-03,Manjeri,Sugar,34.7
+2026-10-03,Manjeri,Lemon,76.8
+2026-10-03,Manjeri,Petrol,65.2
+2026-10-03,Manjeri,Chicken,570.6
+2026-10-03,Manjeri,Cheese,392.7
+2026-10-03,Manjeri,Oil,1029.7
+2026-10-03,Manjeri,Ozone Foods,525.6
+2026-10-03,Manjeri,Recharge,350.4
+2026-10-03,Manjeri,Drawings,939.5
+2026-10-03,Manjeri,Sauce,92.0
+2026-10-03,Manjeri,Ice Cubes,40.8
+2026-10-04,Manjeri,Maida,76.8
+2026-10-04,Manjeri,Sugar,37.0
+2026-10-04,Manjeri,Lemon,31.5
+2026-10-04,Manjeri,Petrol,85.8
+2026-10-04,Manjeri,Chicken,531.3
+2026-10-04,Manjeri,Cheese,440.5
+2026-10-04,Manjeri,Oil,929.0
+2026-10-04,Manjeri,Nsquare Farms,1208.4
+2026-10-04,Manjeri,French Fries,1230.6
+2026-10-04,Manjeri,Recharge,236.5
+2026-10-04,Manjeri,Drawings,971.0
+2026-10-04,Manjeri,Sauce,103.2
+2026-10-04,Manjeri,Ice Cubes,38.4
+2026-10-05,Manjeri,Lemon,41.9
+2026-10-05,Manjeri,Petrol,157.1
+2026-10-05,Manjeri,Cheese,234.3
+2026-10-05,Manjeri,Oil,1018.1
+2026-10-05,Manjeri,Nsquare Farms,983.1
+2026-10-05,Manjeri,French Fries,1016.7
+2026-10-05,Manjeri,Ozone Foods,588.3
+2026-10-05,Manjeri,Milk,94.1
+2026-10-05,Manjeri,Recharge,278.7
+2026-10-06,Manjeri,Maida,78.4
+2026-10-06,Manjeri,Sugar,42.2
+2026-10-06,Manjeri,Cheese,230.3
+2026-10-06,Manjeri,Branding,127.3
+2026-10-06,Manjeri,Nsquare Farms,1202.8
+2026-10-06,Manjeri,French Fries,1516.6
+2026-10-06,Manjeri,Ozone Foods,429.9
+2026-10-06,Manjeri,Recharge,361.0
+2026-10-06,Manjeri,Sauce,91.4
+2026-10-06,Manjeri,Ice Cubes,71.1
+2026-10-07,Manjeri,Maida,44.4
+2026-10-07,Manjeri,Sugar,34.6
+2026-10-07,Manjeri,Lemon,45.4
+2026-10-07,Manjeri,Petrol,130.5
+2026-10-07,Manjeri,Chicken,400.9
+2026-10-07,Manjeri,Cheese,382.0
+2026-10-07,Manjeri,Oil,1098.9
+2026-10-07,Manjeri,Branding,138.8
+2026-10-07,Manjeri,Nsquare Farms,1145.3
+2026-10-07,Manjeri,Ozone Foods,417.5
+2026-10-07,Manjeri,Milk,132.1
+2026-10-07,Manjeri,Drawings,777.1
+2026-10-07,Manjeri,Ice Cubes,77.6
+2026-10-08,Manjeri,Maida,60.4
+2026-10-08,Manjeri,Sugar,80.9
+2026-10-08,Manjeri,Lemon,69.1
+2026-10-08,Manjeri,Petrol,116.7
+2026-10-08,Manjeri,Cheese,401.5
+2026-10-08,Manjeri,Oil,1035.0
+2026-10-08,Manjeri,Nsquare Farms,903.7
+2026-10-08,Manjeri,Ozone Foods,370.8
+2026-10-08,Manjeri,Milk,114.1
+2026-10-08,Manjeri,Drawings,1407.8
+2026-10-08,Manjeri,Sauce,88.5
+2026-10-08,Manjeri,Ice Cubes,83.9
+2026-10-09,Manjeri,Maida,64.8
+2026-10-09,Manjeri,Sugar,34.4
+2026-10-09,Manjeri,Lemon,47.1
+2026-10-09,Manjeri,Petrol,98.0
+2026-10-09,Manjeri,Cheese,299.6
+2026-10-09,Manjeri,Oil,826.1
+2026-10-09,Manjeri,Branding,226.7
+2026-10-09,Manjeri,Nsquare Farms,1087.1
+2026-10-09,Manjeri,Ozone Foods,546.0
+2026-10-09,Manjeri,Milk,127.2
+2026-10-09,Manjeri,Recharge,329.5
+2026-10-09,Manjeri,Sauce,101.1
+2026-10-09,Manjeri,Ice Cubes,37.1
+2026-10-10,Manjeri,Maida,79.0
+2026-10-10,Manjeri,Sugar,48.0
+2026-10-10,Manjeri,Lemon,50.7
+2026-10-10,Manjeri,Cheese,216.6
+2026-10-10,Manjeri,Branding,156.2
+2026-10-10,Manjeri,Ozone Foods,512.4
+2026-10-10,Manjeri,Milk,70.3
+2026-10-10,Manjeri,Recharge,281.3
+2026-10-10,Manjeri,Drawings,1309.0
+2026-10-10,Manjeri,Sauce,45.9
+2026-10-10,Manjeri,Ice Cubes,70.0
+2026-10-11,Manjeri,Maida,50.2
+2026-10-11,Manjeri,Sugar,75.9
+2026-10-11,Manjeri,Lemon,43.7
+2026-10-11,Manjeri,Petrol,142.3
+2026-10-11,Manjeri,Chicken,511.9
+2026-10-11,Manjeri,Cheese,380.3
+2026-10-11,Manjeri,Branding,139.1
+2026-10-11,Manjeri,French Fries,1468.6
+2026-10-11,Manjeri,Ozone Foods,420.7
+2026-10-11,Manjeri,Milk,106.8
+2026-10-11,Manjeri,Recharge,192.0
+2026-10-11,Manjeri,Drawings,1336.9
+2026-10-11,Manjeri,Ice Cubes,87.8
+2026-10-12,Manjeri,Sugar,38.7
+2026-10-12,Manjeri,Lemon,66.2
+2026-10-12,Manjeri,Chicken,589.2
+2026-10-12,Manjeri,Oil,611.9
+2026-10-12,Manjeri,Nsquare Farms,611.5
+2026-10-12,Manjeri,French Fries,822.8
+2026-10-12,Manjeri,Milk,134.5
+2026-10-12,Manjeri,Recharge,198.0
+2026-10-12,Manjeri,Drawings,923.4
+2026-10-12,Manjeri,Sauce,53.7
+2026-10-12,Manjeri,Ice Cubes,57.3
+2026-10-13,Manjeri,Maida,48.1
+2026-10-13,Manjeri,Sugar,62.5
+2026-10-13,Manjeri,Lemon,34.8
+2026-10-13,Manjeri,Petrol,105.0
+2026-10-13,Manjeri,Cheese,406.8
+2026-10-13,Manjeri,Ozone Foods,379.0
+2026-10-13,Manjeri,Milk,113.8
+2026-10-13,Manjeri,Recharge,348.9
+2026-10-13,Manjeri,Drawings,1527.2
+2026-10-13,Manjeri,Ice Cubes,50.1
+2026-10-14,Manjeri,Maida,69.2
+2026-10-14,Manjeri,Lemon,45.3
+2026-10-14,Manjeri,Petrol,99.7
+2026-10-14,Manjeri,Chicken,523.6
+2026-10-14,Manjeri,Cheese,360.2
+2026-10-14,Manjeri,Oil,781.0
+2026-10-14,Manjeri,Nsquare Farms,1367.5
+2026-10-14,Manjeri,French Fries,1316.4
+2026-10-15,Manjeri,Maida,72.4
+2026-10-15,Manjeri,Sugar,75.1
+2026-10-15,Manjeri,Lemon,38.7
+2026-10-15,Manjeri,Chicken,551.3
+2026-10-15,Manjeri,Oil,699.1
+2026-10-15,Manjeri,Nsquare Farms,671.7
+2026-10-15,Manjeri,French Fries,1161.0
+2026-10-15,Manjeri,Milk,60.1
+2026-10-15,Manjeri,Recharge,156.5
+2026-10-15,Manjeri,Sauce,47.8
+2026-10-15,Manjeri,Ice Cubes,93.8
+2026-09-01,Thiruvali,Lemon,69.8
+2026-09-01,Thiruvali,Cheese,261.2
+2026-09-01,Thiruvali,Oil,727.3
+2026-09-01,Thiruvali,Nsquare Farms,610.6
+2026-09-01,Thiruvali,French Fries,750.4
+2026-09-01,Thiruvali,Milk,140.6
+2026-09-01,Thiruvali,Recharge,359.0
+2026-09-01,Thiruvali,Ice Cubes,77.8
+2026-09-02,Thiruvali,Maida,38.4
+2026-09-02,Thiruvali,Sugar,80.1
+2026-09-02,Thiruvali,Lemon,65.2
+2026-09-02,Thiruvali,Petrol,107.4
+2026-09-02,Thiruvali,Oil,488.5
+2026-09-02,Thiruvali,Branding,218.3
+2026-09-02,Thiruvali,Ozone Foods,429.4
+2026-09-02,Thiruvali,Sauce,50.3
+2026-09-02,Thiruvali,Ice Cubes,62.0
+2026-09-03,Thiruvali,Maida,63.5
+2026-09-03,Thiruvali,Sugar,63.0
+2026-09-03,Thiruvali,Petrol,154.1
+2026-09-03,Thiruvali,Cheese,295.8
+2026-09-03,Thiruvali,Oil,1092.8
+2026-09-03,Thiruvali,Ozone Foods,602.1
+2026-09-03,Thiruvali,Recharge,198.9
+2026-09-03,Thiruvali,Drawings,669.4
+2026-09-03,Thiruvali,Sauce,45.6
+2026-09-04,Thiruvali,Lemon,76.5
+2026-09-04,Thiruvali,Petrol,145.8
+2026-09-04,Thiruvali,Cheese,308.7
+2026-09-04,Thiruvali,Branding,270.2
+2026-09-04,Thiruvali,French Fries,1625.5
+2026-09-04,Thiruvali,Ozone Foods,281.2
+2026-09-04,Thiruvali,Recharge,375.6
+2026-09-04,Thiruvali,Drawings,1105.3
+2026-09-05,Thiruvali,Maida,62.5
+2026-09-05,Thiruvali,Lemon,74.4
+2026-09-05,Thiruvali,Petrol,95.1
+2026-09-05,Thiruvali,Chicken,358.5
+2026-09-05,Thiruvali,Oil,520.1
+2026-09-05,Thiruvali,Branding,272.3
+2026-09-05,Thiruvali,French Fries,1461.9
+2026-09-05,Thiruvali,Ozone Foods,280.4
+2026-09-05,Thiruvali,Milk,61.6
+2026-09-05,Thiruvali,Drawings,1301.0
+2026-09-05,Thiruvali,Sauce,43.7
+2026-09-05,Thiruvali,Ice Cubes,85.3
+2026-09-06,Thiruvali,Maida,43.1
+2026-09-06,Thiruvali,Sugar,68.7
+2026-09-06,Thiruvali,Lemon,67.3
+2026-09-06,Thiruvali,Petrol,118.3
+2026-09-06,Thiruvali,Chicken,781.1
+2026-09-06,Thiruvali,Oil,682.4
+2026-09-06,Thiruvali,Branding,177.1
+2026-09-06,Thiruvali,Nsquare Farms,1321.7
+2026-09-06,Thiruvali,French Fries,988.3
+2026-09-06,Thiruvali,Ozone Foods,625.3
+2026-09-06,Thiruvali,Drawings,612.2
+2026-09-06,Thiruvali,Sauce,102.0
+2026-09-06,Thiruvali,Ice Cubes,38.6
+2026-09-07,Thiruvali,Maida,47.3
+2026-09-07,Thiruvali,Sugar,58.5
+2026-09-07,Thiruvali,Lemon,47.7
+2026-09-07,Thiruvali,Chicken,591.8
+2026-09-07,Thiruvali,Cheese,203.3
+2026-09-07,Thiruvali,Oil,1102.1
+2026-09-07,Thiruvali,Branding,317.2
+2026-09-07,Thiruvali,French Fries,1557.8
+2026-09-07,Thiruvali,Ozone Foods,454.4
+2026-09-07,Thiruvali,Milk,81.9
+2026-09-07,Thiruvali,Recharge,353.4
+2026-09-07,Thiruvali,Drawings,1284.7
+2026-09-07,Thiruvali,Sauce,49.6
+2026-09-07,Thiruvali,Ice Cubes,90.7
+2026-09-08,Thiruvali,Sugar,77.7
+2026-09-08,Thiruvali,Cheese,479.9
+2026-09-08,Thiruvali,Oil,1117.6
+2026-09-08,Thiruvali,Nsquare Farms,1039.9
+2026-09-08,Thiruvali,Ozone Foods,547.6
+2026-09-08,Thiruvali,Milk,139.0
+2026-09-08,Thiruvali,Drawings,1449.6
+2026-09-08,Thiruvali,Sauce,55.1
+2026-09-08,Thiruvali,Ice Cubes,63.0
+2026-09-09,Thiruvali,Lemon,30.7
+2026-09-09,Thiruvali,Petrol,95.1
+2026-09-09,Thiruvali,Chicken,595.0
+2026-09-09,Thiruvali,Cheese,297.7
+2026-09-09,Thiruvali,Oil,726.2
+2026-09-09,Thiruvali,Branding,300.8
+2026-09-09,Thiruvali,Nsquare Farms,853.4
+2026-09-09,Thiruvali,French Fries,1336.8
+2026-09-09,Thiruvali,Recharge,345.9
+2026-09-09,Thiruvali,Sauce,64.8
+2026-09-09,Thiruvali,Ice Cubes,73.3
+2026-09-10,Thiruvali,Maida,64.4
+2026-09-10,Thiruvali,Petrol,126.8
+2026-09-10,Thiruvali,Cheese,231.7
+2026-09-10,Thiruvali,Oil,554.6
+2026-09-10,Thiruvali,Branding,128.2
+2026-09-10,Thiruvali,French Fries,922.7
+2026-09-10,Thiruvali,Milk,79.1
+2026-09-10,Thiruvali,Recharge,194.3
+2026-09-10,Thiruvali,Drawings,688.7
+2026-09-10,Thiruvali,Sauce,46.8
+2026-09-10,Thiruvali,Ice Cubes,63.6
+2026-09-11,Thiruvali,Maida,58.2
+2026-09-11,Thiruvali,Sugar,59.6
+2026-09-11,Thiruvali,Lemon,60.9
+2026-09-11,Thiruvali,Petrol,96.9
+2026-09-11,Thiruvali,Cheese,318.8
+2026-09-11,Thiruvali,Oil,943.2
+2026-09-11,Thiruvali,Branding,127.3
+2026-09-11,Thiruvali,French Fries,1022.9
+2026-09-11,Thiruvali,Milk,118.2
+2026-09-11,Thiruvali,Recharge,373.8
+2026-09-12,Thiruvali,Maida,83.4
+2026-09-12,Thiruvali,Sugar,60.4
+2026-09-12,Thiruvali,Lemon,34.3
+2026-09-12,Thiruvali,Petrol,113.7
+2026-09-12,Thiruvali,Chicken,593.4
+2026-09-12,Thiruvali,Branding,269.1
+2026-09-12,Thiruvali,Nsquare Farms,928.5
+2026-09-12,Thiruvali,French Fries,873.1
+2026-09-12,Thiruvali,Milk,79.5
+2026-09-12,Thiruvali,Recharge,240.8
+2026-09-12,Thiruvali,Drawings,1245.9
+2026-09-12,Thiruvali,Sauce,76.1
+2026-09-13,Thiruvali,Chicken,385.4
+2026-09-13,Thiruvali,Cheese,380.6
+2026-09-13,Thiruvali,Branding,305.9
+2026-09-13,Thiruvali,Nsquare Farms,1041.1
+2026-09-13,Thiruvali,French Fries,1405.9
+2026-09-13,Thiruvali,Recharge,220.0
+2026-09-13,Thiruvali,Sauce,89.0
+2026-09-14,Thiruvali,Maida,71.7
+2026-09-14,Thiruvali,Sugar,58.9
+2026-09-14,Thiruvali,Lemon,50.6
+2026-09-14,Thiruvali,Chicken,474.4
+2026-09-14,Thiruvali,Cheese,458.9
+2026-09-14,Thiruvali,Oil,1001.4
+2026-09-14,Thiruvali,Nsquare Farms,1408.5
+2026-09-14,Thiruvali,French Fries,869.2
+2026-09-14,Thiruvali,Ozone Foods,532.3
+2026-09-14,Thiruvali,Milk,138.5
+2026-09-14,Thiruvali,Recharge,195.3
+2026-09-14,Thiruvali,Drawings,666.5
+2026-09-14,Thiruvali,Ice Cubes,80.5
+2026-09-15,Thiruvali,Maida,80.9
+2026-09-15,Thiruvali,Sugar,60.6
+2026-09-15,Thiruvali,Nsquare Farms,749.0
+2026-09-15,Thiruvali,French Fries,1799.5
+2026-09-15,Thiruvali,Milk,88.6
+2026-09-15,Thiruvali,Recharge,285.9
+2026-09-15,Thiruvali,Ice Cubes,90.4
+2026-09-16,Thiruvali,Maida,43.6
+2026-09-16,Thiruvali,Sugar,54.9
+2026-09-16,Thiruvali,Lemon,69.9
+2026-09-16,Thiruvali,Petrol,75.0
+2026-09-16,Thiruvali,Chicken,414.6
+2026-09-16,Thiruvali,Cheese,396.7
+2026-09-16,Thiruvali,Oil,924.0
+2026-09-16,Thiruvali,Nsquare Farms,1117.0
+2026-09-16,Thiruvali,Recharge,323.5
+2026-09-16,Thiruvali,Drawings,1142.7
+2026-09-16,Thiruvali,Sauce,55.4
+2026-09-17,Thiruvali,Sugar,56.3
+2026-09-17,Thiruvali,Chicken,668.2
+2026-09-17,Thiruvali,Cheese,460.3
+2026-09-17,Thiruvali,Branding,305.1
+2026-09-17,Thiruvali,Nsquare Farms,945.8
+2026-09-17,Thiruvali,French Fries,855.9
+2026-09-17,Thiruvali,Ozone Foods,633.9
+2026-09-17,Thiruvali,Milk,129.5
+2026-09-17,Thiruvali,Recharge,181.2
+2026-09-17,Thiruvali,Drawings,1520.8
+2026-09-17,Thiruvali,Ice Cubes,88.2
+2026-09-18,Thiruvali,Maida,73.9
+2026-09-18,Thiruvali,Sugar,33.7
+2026-09-18,Thiruvali,Chicken,631.8
+2026-09-18,Thiruvali,Cheese,233.4
+2026-09-18,Thiruvali,Oil,1092.7
+2026-09-18,Thiruvali,French Fries,898.4
+2026-09-18,Thiruvali,Ozone Foods,405.8
+2026-09-18,Thiruvali,Drawings,685.3
+2026-09-18,Thiruvali,Sauce,103.8
+2026-09-19,Thiruvali,Maida,58.4
+2026-09-19,Thiruvali,Sugar,47.9
+2026-09-19,Thiruvali,Petrol,124.4
+2026-09-19,Thiruvali,Cheese,302.6
+2026-09-19,Thiruvali,Oil,437.8
+2026-09-19,Thiruvali,Branding,151.2
+2026-09-19,Thiruvali,French Fries,1579.2
+2026-09-19,Thiruvali,Ozone Foods,503.6
+2026-09-19,Thiruvali,Milk,56.4
+2026-09-19,Thiruvali,Ice Cubes,49.3
+2026-09-20,Thiruvali,Maida,71.0
+2026-09-20,Thiruvali,Sugar,56.2
+2026-09-20,Thiruvali,Lemon,74.6
+2026-09-20,Thiruvali,Petrol,141.7
+2026-09-20,Thiruvali,Chicken,470.9
+2026-09-20,Thiruvali,Cheese,257.8
+2026-09-20,Thiruvali,Oil,685.8
+2026-09-20,Thiruvali,Branding,238.1
+2026-09-20,Thiruvali,Recharge,217.0
+2026-09-20,Thiruvali,Sauce,79.6
+2026-09-20,Thiruvali,Ice Cubes,60.6
+2026-09-21,Thiruvali,Maida,46.3
+2026-09-21,Thiruvali,Sugar,48.0
+2026-09-21,Thiruvali,Lemon,30.9
+2026-09-21,Thiruvali,Chicken,757.1
+2026-09-21,Thiruvali,Branding,143.6
+2026-09-21,Thiruvali,Nsquare Farms,1058.9
+2026-09-21,Thiruvali,French Fries,1048.9
+2026-09-21,Thiruvali,Ozone Foods,461.7
+2026-09-21,Thiruvali,Recharge,312.9
+2026-09-21,Thiruvali,Ice Cubes,85.8
+2026-09-22,Thiruvali,Sugar,52.6
+2026-09-22,Thiruvali,Lemon,66.0
+2026-09-22,Thiruvali,Petrol,89.7
+2026-09-22,Thiruvali,Chicken,583.2
+2026-09-22,Thiruvali,Cheese,322.8
+2026-09-22,Thiruvali,Branding,252.7
+2026-09-22,Thiruvali,Nsquare Farms,1383.1
+2026-09-22,Thiruvali,Ozone Foods,533.0
+2026-09-22,Thiruvali,Milk,73.3
+2026-09-22,Thiruvali,Drawings,631.2
+2026-09-22,Thiruvali,Ice Cubes,51.7
+2026-09-23,Thiruvali,Maida,93.0
+2026-09-23,Thiruvali,Lemon,52.3
+2026-09-23,Thiruvali,Chicken,392.6
+2026-09-23,Thiruvali,Cheese,342.6
+2026-09-23,Thiruvali,Branding,294.6
+2026-09-23,Thiruvali,Nsquare Farms,1199.0
+2026-09-23,Thiruvali,French Fries,1687.9
+2026-09-23,Thiruvali,Ozone Foods,503.5
+2026-09-23,Thiruvali,Milk,116.3
+2026-09-23,Thiruvali,Drawings,1449.2
+2026-09-23,Thiruvali,Sauce,55.2
+2026-09-24,Thiruvali,Maida,43.2
+2026-09-24,Thiruvali,Lemon,33.8
+2026-09-24,Thiruvali,Petrol,129.6
+2026-09-24,Thiruvali,Cheese,282.0
+2026-09-24,Thiruvali,Branding,265.0
+2026-09-24,Thiruvali,Nsquare Farms,598.8
+2026-09-24,Thiruvali,Milk,82.4
+2026-09-24,Thiruvali,Recharge,284.9
+2026-09-24,Thiruvali,Drawings,1390.7
+2026-09-24,Thiruvali,Sauce,59.7
+2026-09-25,Thiruvali,Maida,50.3
+2026-09-25,Thiruvali,Petrol,71.0
+2026-09-25,Thiruvali,Chicken,477.3
+2026-09-25,Thiruvali,Cheese,266.2
+2026-09-25,Thiruvali,Branding,179.3
+2026-09-25,Thiruvali,Nsquare Farms,750.2
+2026-09-25,Thiruvali,French Fries,770.5
+2026-09-25,Thiruvali,Ozone Foods,247.1
+2026-09-25,Thiruvali,Milk,142.9
+2026-09-25,Thiruvali,Recharge,256.9
+2026-09-25,Thiruvali,Drawings,984.3
+2026-09-26,Thiruvali,Maida,47.2
+2026-09-26,Thiruvali,Sugar,75.9
+2026-09-26,Thiruvali,Lemon,47.5
+2026-09-26,Thiruvali,Petrol,65.8
+2026-09-26,Thiruvali,Chicken,784.6
+2026-09-26,Thiruvali,Cheese,445.1
+2026-09-26,Thiruvali,French Fries,1833.3
+2026-09-26,Thiruvali,Ozone Foods,638.0
+2026-09-26,Thiruvali,Milk,69.7
+2026-09-26,Thiruvali,Recharge,249.1
+2026-09-27,Thiruvali,Maida,79.4
+2026-09-27,Thiruvali,Sugar,60.3
+2026-09-27,Thiruvali,Petrol,68.1
+2026-09-27,Thiruvali,Cheese,246.1
+2026-09-27,Thiruvali,Oil,898.3
+2026-09-27,Thiruvali,Branding,135.2
+2026-09-27,Thiruvali,Nsquare Farms,1306.1
+2026-09-27,Thiruvali,French Fries,1314.2
+2026-09-27,Thiruvali,Recharge,270.1
+2026-09-27,Thiruvali,Drawings,1192.4
+2026-09-28,Thiruvali,Lemon,31.5
+2026-09-28,Thiruvali,Petrol,142.6
+2026-09-28,Thiruvali,Cheese,218.7
+2026-09-28,Thiruvali,Oil,654.6
+2026-09-28,Thiruvali,Branding,268.7
+2026-09-28,Thiruvali,Nsquare Farms,684.7
+2026-09-28,Thiruvali,French Fries,1701.6
+2026-09-28,Thiruvali,Ozone Foods,572.9
+2026-09-28,Thiruvali,Milk,99.7
+2026-09-28,Thiruvali,Recharge,151.6
+2026-09-28,Thiruvali,Sauce,57.7
+2026-09-28,Thiruvali,Ice Cubes,73.0
+2026-09-29,Thiruvali,Maida,78.5
+2026-09-29,Thiruvali,Sugar,36.7
+2026-09-29,Thiruvali,Oil,827.5
+2026-09-29,Thiruvali,Branding,189.2
+2026-09-29,Thiruvali,Nsquare Farms,1098.8
+2026-09-29,Thiruvali,French Fries,774.9
+2026-09-29,Thiruvali,Ozone Foods,588.6
+2026-09-29,Thiruvali,Milk,141.6
+2026-09-29,Thiruvali,Recharge,392.2
+2026-09-29,Thiruvali,Drawings,1349.7
+2026-09-30,Thiruvali,Maida,45.1
+2026-09-30,Thiruvali,Lemon,51.6
+2026-09-30,Thiruvali,Petrol,154.4
+2026-09-30,Thiruvali,Chicken,509.9
+2026-09-30,Thiruvali,Cheese,371.6
+2026-09-30,Thiruvali,Nsquare Farms,897.8
+2026-09-30,Thiruvali,Ozone Foods,349.7
+2026-09-30,Thiruvali,Milk,142.6
+2026-09-30,Thiruvali,Ice Cubes,60.6
+2026-10-01,Thiruvali,Maida,83.8
+2026-10-01,Thiruvali,Chicken,358.7
+2026-10-01,Thiruvali,Oil,507.6
+2026-10-01,Thiruvali,Nsquare Farms,1157.0
+2026-10-01,Thiruvali,French Fries,1236.4
+2026-10-01,Thiruvali,Ozone Foods,320.2
+2026-10-01,Thiruvali,Sauce,71.0
+2026-10-02,Thiruvali,Lemon,37.1
+2026-10-02,Thiruvali,Petrol,109.9
+2026-10-02,Thiruvali,Cheese,365.4
+2026-10-02,Thiruvali,Oil,911.7
+2026-10-02,Thiruvali,Branding,231.9
+2026-10-02,Thiruvali,Nsquare Farms,548.8
+2026-10-02,Thiruvali,French Fries,1111.8
+2026-10-02,Thiruvali,Ozone Foods,447.1
+2026-10-02,Thiruvali,Drawings,687.9
+2026-10-02,Thiruvali,Sauce,61.8
+2026-10-02,Thiruvali,Ice Cubes,38.0
+2026-10-03,Thiruvali,Sugar,82.2
+2026-10-03,Thiruvali,Lemon,57.4
+2026-10-03,Thiruvali,Petrol,141.7
+2026-10-03,Thiruvali,Oil,736.6
+2026-10-03,Thiruvali,Branding,248.7
+2026-10-03,Thiruvali,Nsquare Farms,1013.8
+2026-10-03,Thiruvali,French Fries,1597.9
+2026-10-03,Thiruvali,Ozone Foods,272.7
+2026-10-03,Thiruvali,Milk,59.4
+2026-10-03,Thiruvali,Drawings,847.1
+2026-10-03,Thiruvali,Sauce,49.4
+2026-10-04,Thiruvali,Maida,88.0
+2026-10-04,Thiruvali,Sugar,64.8
+2026-10-04,Thiruvali,Lemon,51.9
+2026-10-04,Thiruvali,Petrol,132.5
+2026-10-04,Thiruvali,Chicken,543.3
+2026-10-04,Thiruvali,Cheese,442.0
+2026-10-04,Thiruvali,Branding,300.1
+2026-10-04,Thiruvali,Nsquare Farms,919.5
+2026-10-04,Thiruvali,French Fries,1052.2
+2026-10-04,Thiruvali,Ozone Foods,476.9
+2026-10-04,Thiruvali,Recharge,378.1
+2026-10-04,Thiruvali,Ice Cubes,48.6
+2026-10-05,Thiruvali,Maida,57.6
+2026-10-05,Thiruvali,Sugar,65.6
+2026-10-05,Thiruvali,Petrol,76.4
+2026-10-05,Thiruvali,Chicken,495.5
+2026-10-05,Thiruvali,Oil,1098.6
+2026-10-05,Thiruvali,Branding,171.6
+2026-10-05,Thiruvali,Nsquare Farms,1131.1
+2026-10-05,Thiruvali,French Fries,1110.2
+2026-10-05,Thiruvali,Milk,123.6
+2026-10-05,Thiruvali,Recharge,182.7
+2026-10-05,Thiruvali,Sauce,102.0
+2026-10-05,Thiruvali,Ice Cubes,63.2
+2026-10-06,Thiruvali,Maida,88.1
+2026-10-06,Thiruvali,Lemon,40.3
+2026-10-06,Thiruvali,Petrol,71.2
+2026-10-06,Thiruvali,Oil,608.8
+2026-10-06,Thiruvali,Branding,131.4
+2026-10-06,Thiruvali,French Fries,1357.4
+2026-10-06,Thiruvali,Milk,138.3
+2026-10-06,Thiruvali,Recharge,159.8
+2026-10-06,Thiruvali,Sauce,46.9
+2026-10-06,Thiruvali,Ice Cubes,63.1
+2026-10-07,Thiruvali,Maida,86.3
+2026-10-07,Thiruvali,Sugar,85.0
+2026-10-07,Thiruvali,Lemon,64.2
+2026-10-07,Thiruvali,Petrol,109.7
+2026-10-07,Thiruvali,Chicken,608.9
+2026-10-07,Thiruvali,Cheese,440.7
+2026-10-07,Thiruvali,Nsquare Farms,1053.5
+2026-10-07,Thiruvali,French Fries,756.5
+2026-10-07,Thiruvali,Ozone Foods,612.4
+2026-10-07,Thiruvali,Milk,116.1
+2026-10-08,Thiruvali,Maida,62.1
+2026-10-08,Thiruvali,Sugar,78.0
+2026-10-08,Thiruvali,Lemon,36.0
+2026-10-08,Thiruvali,Petrol,114.4
+2026-10-08,Thiruvali,Chicken,302.9
+2026-10-08,Thiruvali,Oil,647.2
+2026-10-08,Thiruvali,French Fries,1159.8
+2026-10-08,Thiruvali,Ozone Foods,398.5
+2026-10-08,Thiruvali,Recharge,323.9
+2026-10-08,Thiruvali,Drawings,988.6
+2026-10-08,Thiruvali,Sauce,68.2
+2026-10-08,Thiruvali,Ice Cubes,50.3
+2026-10-09,Thiruvali,Lemon,39.8
+2026-10-09,Thiruvali,Petrol,60.8
+2026-10-09,Thiruvali,Chicken,623.7
+2026-10-09,Thiruvali,Cheese,449.4
+2026-10-09,Thiruvali,Oil,590.4
+2026-10-09,Thiruvali,French Fries,1832.4
+2026-10-09,Thiruvali,Recharge,165.1
+2026-10-09,Thiruvali,Sauce,99.7
+2026-10-10,Thiruvali,Maida,51.4
+2026-10-10,Thiruvali,Chicken,781.5
+2026-10-10,Thiruvali,Cheese,325.1
+2026-10-10,Thiruvali,Branding,281.2
+2026-10-10,Thiruvali,Nsquare Farms,1035.2
+2026-10-10,Thiruvali,French Fries,772.1
+2026-10-10,Thiruvali,Ozone Foods,493.3
+2026-10-10,Thiruvali,Milk,139.6
+2026-10-10,Thiruvali,Recharge,300.4
+2026-10-11,Thiruvali,Petrol,81.7
+2026-10-11,Thiruvali,Branding,139.1
+2026-10-11,Thiruvali,French Fries,748.4
+2026-10-11,Thiruvali,Ozone Foods,496.8
+2026-10-11,Thiruvali,Milk,108.6
+2026-10-11,Thiruvali,Recharge,286.7
+2026-10-11,Thiruvali,Sauce,54.1
+2026-10-11,Thiruvali,Ice Cubes,59.5
+2026-10-12,Thiruvali,Sugar,36.8
+2026-10-12,Thiruvali,Lemon,56.0
+2026-10-12,Thiruvali,Chicken,333.8
+2026-10-12,Thiruvali,Cheese,420.1
+2026-10-12,Thiruvali,Oil,583.6
+2026-10-12,Thiruvali,Branding,228.0
+2026-10-12,Thiruvali,French Fries,1776.1
+2026-10-12,Thiruvali,Ozone Foods,500.4
+2026-10-12,Thiruvali,Milk,102.0
+2026-10-12,Thiruvali,Drawings,924.3
+2026-10-12,Thiruvali,Sauce,60.6
+2026-10-13,Thiruvali,Maida,60.0
+2026-10-13,Thiruvali,Sugar,41.4
+2026-10-13,Thiruvali,Petrol,159.2
+2026-10-13,Thiruvali,Chicken,763.5
+2026-10-13,Thiruvali,Oil,798.0
+2026-10-13,Thiruvali,Branding,288.4
+2026-10-13,Thiruvali,Nsquare Farms,1008.9
+2026-10-13,Thiruvali,Drawings,1223.6
+2026-10-13,Thiruvali,Sauce,44.8
+2026-10-14,Thiruvali,Sugar,87.6
+2026-10-14,Thiruvali,Lemon,72.6
+2026-10-14,Thiruvali,Petrol,80.9
+2026-10-14,Thiruvali,Chicken,765.3
+2026-10-14,Thiruvali,Cheese,214.9
+2026-10-14,Thiruvali,Oil,992.2
+2026-10-14,Thiruvali,Branding,196.1
+2026-10-14,Thiruvali,Ozone Foods,591.2
+2026-10-14,Thiruvali,Milk,132.1
+2026-10-14,Thiruvali,Recharge,351.5
+2026-10-14,Thiruvali,Drawings,1390.0
+2026-10-14,Thiruvali,Sauce,58.8
+2026-10-14,Thiruvali,Ice Cubes,40.9
+2026-10-15,Thiruvali,Maida,69.0
+2026-10-15,Thiruvali,Cheese,469.7
+2026-10-15,Thiruvali,Oil,722.7
+2026-10-15,Thiruvali,Branding,182.4
+2026-10-15,Thiruvali,Nsquare Farms,995.5
+2026-10-15,Thiruvali,French Fries,1247.4
+2026-10-15,Thiruvali,Ozone Foods,282.3
+2026-10-15,Thiruvali,Milk,111.7
+2026-10-15,Thiruvali,Drawings,1219.6
+2026-10-15,Thiruvali,Ice Cubes,75.0
+2026-09-01,Wandoor,Petrol,119.1
+2026-09-01,Wandoor,Chicken,315.3
+2026-09-01,Wandoor,Oil,446.1
+2026-09-01,Wandoor,Milk,128.0
+2026-09-01,Wandoor,Drawings,960.2
+2026-09-01,Wandoor,Sauce,47.3
+2026-09-01,Wandoor,Ice Cubes,67.3
+2026-09-02,Wandoor,Sugar,55.5
+2026-09-02,Wandoor,Lemon,38.7
+2026-09-02,Wandoor,Petrol,75.6
+2026-09-02,Wandoor,Chicken,425.1
+2026-09-02,Wandoor,Branding,229.8
+2026-09-02,Wandoor,Nsquare Farms,1183.1
+2026-09-02,Wandoor,French Fries,1512.2
+2026-09-02,Wandoor,Milk,79.2
+2026-09-02,Wandoor,Recharge,388.7
+2026-09-02,Wandoor,Drawings,1337.9
+2026-09-02,Wandoor,Sauce,75.0
+2026-09-02,Wandoor,Ice Cubes,72.7
+2026-09-03,Wandoor,Maida,59.9
+2026-09-03,Wandoor,Sugar,66.9
+2026-09-03,Wandoor,Petrol,123.5
+2026-09-03,Wandoor,Chicken,322.7
+2026-09-03,Wandoor,Oil,682.2
+2026-09-03,Wandoor,Branding,245.2
+2026-09-03,Wandoor,Drawings,1103.1
+2026-09-03,Wandoor,Sauce,94.7
+2026-09-04,Wandoor,Maida,37.1
+2026-09-04,Wandoor,Sugar,38.2
+2026-09-04,Wandoor,Chicken,641.5
+2026-09-04,Wandoor,Cheese,201.4
+2026-09-04,Wandoor,Oil,643.3
+2026-09-04,Wandoor,Nsquare Farms,1300.4
+2026-09-04,Wandoor,French Fries,747.9
+2026-09-04,Wandoor,Ozone Foods,565.8
+2026-09-04,Wandoor,Recharge,220.5
+2026-09-04,Wandoor,Drawings,718.2
+2026-09-04,Wandoor,Sauce,84.3
+2026-09-04,Wandoor,Ice Cubes,73.7
+2026-09-05,Wandoor,Maida,85.6
+2026-09-05,Wandoor,Sugar,50.6
+2026-09-05,Wandoor,Lemon,74.8
+2026-09-05,Wandoor,Petrol,98.9
+2026-09-05,Wandoor,Chicken,305.4
+2026-09-05,Wandoor,Branding,301.1
+2026-09-05,Wandoor,French Fries,829.5
+2026-09-05,Wandoor,Ozone Foods,367.7
+2026-09-05,Wandoor,Recharge,387.5
+2026-09-05,Wandoor,Sauce,100.8
+2026-09-05,Wandoor,Ice Cubes,70.4
+2026-09-06,Wandoor,Lemon,65.3
+2026-09-06,Wandoor,Petrol,68.1
+2026-09-06,Wandoor,Cheese,205.5
+2026-09-06,Wandoor,Oil,1110.6
+2026-09-06,Wandoor,Branding,194.9
+2026-09-06,Wandoor,Nsquare Farms,873.6
+2026-09-06,Wandoor,French Fries,1695.4
+2026-09-06,Wandoor,Ozone Foods,618.9
+2026-09-06,Wandoor,Milk,142.7
+2026-09-06,Wandoor,Drawings,1353.4
+2026-09-06,Wandoor,Sauce,63.5
+2026-09-07,Wandoor,Sugar,82.0
+2026-09-07,Wandoor,Lemon,56.4
+2026-09-07,Wandoor,Petrol,159.3
+2026-09-07,Wandoor,Chicken,336.9
+2026-09-07,Wandoor,Cheese,346.2
+2026-09-07,Wandoor,Oil,1098.5
+2026-09-07,Wandoor,Branding,224.6
+2026-09-07,Wandoor,French Fries,1475.3
+2026-09-07,Wandoor,Ozone Foods,518.3
+2026-09-07,Wandoor,Milk,94.9
+2026-09-07,Wandoor,Recharge,306.9
+2026-09-07,Wandoor,Sauce,77.0
+2026-09-07,Wandoor,Ice Cubes,90.1
+2026-09-08,Wandoor,Maida,85.4
+2026-09-08,Wandoor,Lemon,77.5
+2026-09-08,Wandoor,Petrol,132.6
+2026-09-08,Wandoor,Chicken,606.7
+2026-09-08,Wandoor,Cheese,305.5
+2026-09-08,Wandoor,Oil,1072.9
+2026-09-08,Wandoor,Branding,293.2
+2026-09-08,Wandoor,Nsquare Farms,580.7
+2026-09-08,Wandoor,French Fries,751.6
+2026-09-08,Wandoor,Ozone Foods,390.6
+2026-09-08,Wandoor,Milk,126.9
+2026-09-08,Wandoor,Recharge,396.8
+2026-09-08,Wandoor,Drawings,750.4
+2026-09-08,Wandoor,Ice Cubes,71.6
+2026-09-09,Wandoor,Maida,43.7
+2026-09-09,Wandoor,Sugar,85.5
+2026-09-09,Wandoor,Chicken,603.1
+2026-09-09,Wandoor,Cheese,248.6
+2026-09-09,Wandoor,Oil,890.2
+2026-09-09,Wandoor,Branding,243.6
+2026-09-09,Wandoor,Nsquare Farms,862.3
+2026-09-09,Wandoor,French Fries,856.3
+2026-09-09,Wandoor,Milk,114.4
+2026-09-09,Wandoor,Recharge,280.1
+2026-09-09,Wandoor,Sauce,89.2
+2026-09-10,Wandoor,Maida,87.7
+2026-09-10,Wandoor,Sugar,85.2
+2026-09-10,Wandoor,Petrol,74.7
+2026-09-10,Wandoor,Cheese,458.0
+2026-09-10,Wandoor,Oil,764.5
+2026-09-10,Wandoor,French Fries,1029.9
+2026-09-10,Wandoor,Ozone Foods,423.7
+2026-09-10,Wandoor,Milk,142.2
+2026-09-10,Wandoor,Recharge,273.2
+2026-09-10,Wandoor,Ice Cubes,55.7
+2026-09-11,Wandoor,Sugar,44.3
+2026-09-11,Wandoor,Petrol,96.4
+2026-09-11,Wandoor,Nsquare Farms,993.1
+2026-09-11,Wandoor,French Fries,1548.5
+2026-09-11,Wandoor,Ozone Foods,255.7
+2026-09-11,Wandoor,Sauce,91.0
+2026-09-12,Wandoor,Maida,66.7
+2026-09-12,Wandoor,Lemon,56.6
+2026-09-12,Wandoor,Petrol,70.7
+2026-09-12,Wandoor,Chicken,523.7
+2026-09-12,Wandoor,Nsquare Farms,1019.4
+2026-09-12,Wandoor,Recharge,210.6
+2026-09-12,Wandoor,Drawings,869.2
+2026-09-12,Wandoor,Sauce,63.5
+2026-09-13,Wandoor,Maida,57.4
+2026-09-13,Wandoor,Sugar,87.3
+2026-09-13,Wandoor,Petrol,120.6
+2026-09-13,Wandoor,Chicken,418.6
+2026-09-13,Wandoor,Cheese,210.5
+2026-09-13,Wandoor,Oil,527.0
+2026-09-13,Wandoor,Branding,169.2
+2026-09-13,Wandoor,Nsquare Farms,684.6
+2026-09-13,Wandoor,Recharge,196.6
+2026-09-13,Wandoor,Drawings,885.1
+2026-09-13,Wandoor,Sauce,50.3
+2026-09-13,Wandoor,Ice Cubes,89.8
+2026-09-14,Wandoor,Maida,47.2
+2026-09-14,Wandoor,Sugar,50.8
+2026-09-14,Wandoor,Petrol,102.5
+2026-09-14,Wandoor,Cheese,332.3
+2026-09-14,Wandoor,Oil,589.7
+2026-09-14,Wandoor,Branding,143.0
+2026-09-14,Wandoor,Nsquare Farms,1089.6
+2026-09-14,Wandoor,French Fries,1066.4
+2026-09-14,Wandoor,Recharge,295.3
+2026-09-14,Wandoor,Drawings,754.4
+2026-09-15,Wandoor,Sugar,64.6
+2026-09-15,Wandoor,Chicken,720.9
+2026-09-15,Wandoor,Oil,517.8
+2026-09-15,Wandoor,French Fries,1674.3
+2026-09-15,Wandoor,Ozone Foods,320.7
+2026-09-15,Wandoor,Recharge,190.9
+2026-09-15,Wandoor,Sauce,49.7
+2026-09-15,Wandoor,Ice Cubes,84.9
+2026-09-16,Wandoor,Maida,73.5
+2026-09-16,Wandoor,Sugar,39.4
+2026-09-16,Wandoor,Lemon,77.0
+2026-09-16,Wandoor,Petrol,122.8
+2026-09-16,Wandoor,Cheese,280.5
+2026-09-16,Wandoor,Oil,517.5
+2026-09-16,Wandoor,Branding,278.8
+2026-09-16,Wandoor,Nsquare Farms,1098.1
+2026-09-16,Wandoor,French Fries,1360.2
+2026-09-16,Wandoor,Milk,134.5
+2026-09-16,Wandoor,Drawings,1388.6
+2026-09-16,Wandoor,Sauce,48.9
+2026-09-17,Wandoor,Sugar,52.0
+2026-09-17,Wandoor,Petrol,78.2
+2026-09-17,Wandoor,Cheese,452.5
+2026-09-17,Wandoor,Branding,236.7
+2026-09-17,Wandoor,French Fries,1201.0
+2026-09-17,Wandoor,Milk,95.6
+2026-09-17,Wandoor,Recharge,386.8
+2026-09-17,Wandoor,Drawings,753.4
+2026-09-17,Wandoor,Sauce,77.1
+2026-09-18,Wandoor,Maida,67.1
+2026-09-18,Wandoor,Sugar,65.5
+2026-09-18,Wandoor,Lemon,50.0
+2026-09-18,Wandoor,Petrol,65.5
+2026-09-18,Wandoor,Chicken,467.6
+2026-09-18,Wandoor,Nsquare Farms,1262.6
+2026-09-18,Wandoor,Milk,54.4
+2026-09-18,Wandoor,Recharge,233.4
+2026-09-18,Wandoor,Drawings,998.2
+2026-09-18,Wandoor,Sauce,73.9
+2026-09-18,Wandoor,Ice Cubes,91.2
+2026-09-19,Wandoor,Maida,66.1
+2026-09-19,Wandoor,Sugar,65.7
+2026-09-19,Wandoor,Lemon,33.4
+2026-09-19,Wandoor,Petrol,135.0
+2026-09-19,Wandoor,Cheese,243.0
+2026-09-19,Wandoor,Oil,1048.6
+2026-09-19,Wandoor,Branding,161.0
+2026-09-19,Wandoor,French Fries,948.8
+2026-09-19,Wandoor,Ozone Foods,254.6
+2026-09-19,Wandoor,Milk,96.5
+2026-09-19,Wandoor,Recharge,291.2
+2026-09-19,Wandoor,Sauce,43.3
+2026-09-20,Wandoor,Maida,49.9
+2026-09-20,Wandoor,Sugar,70.0
+2026-09-20,Wandoor,Lemon,31.0
+2026-09-20,Wandoor,Petrol,70.4
+2026-09-20,Wandoor,Cheese,420.0
+2026-09-20,Wandoor,Oil,545.0
+2026-09-20,Wandoor,Branding,250.5
+2026-09-20,Wandoor,French Fries,1005.8
+2026-09-20,Wandoor,Ozone Foods,279.8
+2026-09-20,Wandoor,Milk,75.9
+2026-09-20,Wandoor,Recharge,330.6
+2026-09-20,Wandoor,Drawings,1455.7
+2026-09-20,Wandoor,Sauce,93.0
+2026-09-20,Wandoor,Ice Cubes,59.8
+2026-09-21,Wandoor,Maida,69.1
+2026-09-21,Wandoor,Sugar,57.0
+2026-09-21,Wandoor,Cheese,268.3
+2026-09-21,Wandoor,Oil,1083.9
+2026-09-21,Wandoor,Branding,272.7
+2026-09-21,Wandoor,Nsquare Farms,666.1
+2026-09-21,Wandoor,French Fries,1762.2
+2026-09-21,Wandoor,Ozone Foods,435.0
+2026-09-21,Wandoor,Milk,134.5
+2026-09-21,Wandoor,Recharge,350.0
+2026-09-21,Wandoor,Drawings,1025.2
+2026-09-22,Wandoor,Maida,48.4
+2026-09-22,Wandoor,Sugar,33.6
+2026-09-22,Wandoor,Chicken,368.4
+2026-09-22,Wandoor,Branding,300.0
+2026-09-22,Wandoor,Nsquare Farms,1326.5
+2026-09-22,Wandoor,French Fries,1436.9
+2026-09-22,Wandoor,Recharge,300.1
+2026-09-22,Wandoor,Drawings,1265.0
+2026-09-22,Wandoor,Ice Cubes,46.5
+2026-09-23,Wandoor,Maida,71.7
+2026-09-23,Wandoor,Lemon,32.6
+2026-09-23,Wandoor,Petrol,109.6
+2026-09-23,Wandoor,Chicken,598.4
+2026-09-23,Wandoor,Cheese,280.3
+2026-09-23,Wandoor,Milk,123.4
+2026-09-23,Wandoor,Drawings,706.6
+2026-09-23,Wandoor,Sauce,43.9
+2026-09-23,Wandoor,Ice Cubes,79.7
+2026-09-24,Wandoor,Maida,65.4
+2026-09-24,Wandoor,Sugar,45.2
+2026-09-24,Wandoor,Lemon,79.4
+2026-09-24,Wandoor,Petrol,154.4
+2026-09-24,Wandoor,Chicken,319.7
+2026-09-24,Wandoor,Cheese,391.7
+2026-09-24,Wandoor,Oil,1067.7
+2026-09-24,Wandoor,Nsquare Farms,702.5
+2026-09-24,Wandoor,Ozone Foods,467.2
+2026-09-24,Wandoor,Milk,136.4
+2026-09-24,Wandoor,Recharge,158.5
+2026-09-24,Wandoor,Drawings,1297.4
+2026-09-24,Wandoor,Sauce,58.3
+2026-09-24,Wandoor,Ice Cubes,91.5
+2026-09-25,Wandoor,Maida,73.6
+2026-09-25,Wandoor,Sugar,81.7
+2026-09-25,Wandoor,Chicken,607.9
+2026-09-25,Wandoor,Oil,583.1
+2026-09-25,Wandoor,Nsquare Farms,562.0
+2026-09-25,Wandoor,Milk,132.3
+2026-09-25,Wandoor,Recharge,155.3
+2026-09-25,Wandoor,Drawings,1474.7
+2026-09-25,Wandoor,Sauce,73.4
+2026-09-25,Wandoor,Ice Cubes,92.3
+2026-09-26,Wandoor,Maida,76.8
+2026-09-26,Wandoor,Sugar,45.0
+2026-09-26,Wandoor,Petrol,155.0
+2026-09-26,Wandoor,Chicken,693.2
+2026-09-26,Wandoor,Cheese,206.8
+2026-09-26,Wandoor,Oil,712.3
+2026-09-26,Wandoor,Branding,295.8
+2026-09-26,Wandoor,Milk,139.0
+2026-09-26,Wandoor,Recharge,266.9
+2026-09-26,Wandoor,Drawings,1213.4
+2026-09-26,Wandoor,Ice Cubes,46.0
+2026-09-27,Wandoor,Maida,81.5
+2026-09-27,Wandoor,Sugar,71.3
+2026-09-27,Wandoor,Petrol,75.4
+2026-09-27,Wandoor,Chicken,707.9
+2026-09-27,Wandoor,Cheese,247.3
+2026-09-27,Wandoor,Oil,576.7
+2026-09-27,Wandoor,Branding,227.4
+2026-09-27,Wandoor,Nsquare Farms,1073.6
+2026-09-27,Wandoor,Milk,106.2
+2026-09-27,Wandoor,Recharge,172.9
+2026-09-27,Wandoor,Sauce,96.0
+2026-09-27,Wandoor,Ice Cubes,51.9
+2026-09-28,Wandoor,Maida,85.5
+2026-09-28,Wandoor,Sugar,52.1
+2026-09-28,Wandoor,Chicken,639.0
+2026-09-28,Wandoor,Cheese,349.7
+2026-09-28,Wandoor,Oil,606.9
+2026-09-28,Wandoor,Nsquare Farms,1330.8
+2026-09-28,Wandoor,Ozone Foods,559.0
+2026-09-28,Wandoor,Recharge,314.6
+2026-09-28,Wandoor,Sauce,94.3
+2026-09-28,Wandoor,Ice Cubes,88.0
+2026-09-29,Wandoor,Maida,94.9
+2026-09-29,Wandoor,Sugar,67.7
+2026-09-29,Wandoor,Chicken,429.9
+2026-09-29,Wandoor,Cheese,370.2
+2026-09-29,Wandoor,Oil,798.0
+2026-09-29,Wandoor,French Fries,1655.8
+2026-09-29,Wandoor,Ozone Foods,282.8
+2026-09-29,Wandoor,Milk,122.5
+2026-09-29,Wandoor,Sauce,74.2
+2026-09-29,Wandoor,Ice Cubes,93.8
+2026-09-30,Wandoor,Sugar,40.2
+2026-09-30,Wandoor,Lemon,67.9
+2026-09-30,Wandoor,Chicken,312.3
+2026-09-30,Wandoor,Oil,435.5
+2026-09-30,Wandoor,Branding,184.7
+2026-09-30,Wandoor,French Fries,1306.4
+2026-09-30,Wandoor,Ozone Foods,548.2
+2026-09-30,Wandoor,Milk,115.5
+2026-09-30,Wandoor,Recharge,261.5
+2026-09-30,Wandoor,Drawings,873.6
+2026-09-30,Wandoor,Ice Cubes,95.8
+2026-10-01,Wandoor,Sugar,82.2
+2026-10-01,Wandoor,Lemon,41.5
+2026-10-01,Wandoor,Chicken,406.6
+2026-10-01,Wandoor,Cheese,189.3
+2026-10-01,Wandoor,Oil,876.2
+2026-10-01,Wandoor,Nsquare Farms,871.7
+2026-10-01,Wandoor,French Fries,1757.2
+2026-10-01,Wandoor,Milk,96.6
+2026-10-01,Wandoor,Drawings,1568.2
+2026-10-01,Wandoor,Ice Cubes,47.1
+2026-10-02,Wandoor,Sugar,36.5
+2026-10-02,Wandoor,Lemon,59.1
+2026-10-02,Wandoor,Petrol,86.9
+2026-10-02,Wandoor,Chicken,698.8
+2026-10-02,Wandoor,Cheese,273.1
+2026-10-02,Wandoor,Oil,738.7
+2026-10-02,Wandoor,Branding,122.3
+2026-10-02,Wandoor,Nsquare Farms,605.2
+2026-10-02,Wandoor,Milk,89.3
+2026-10-02,Wandoor,Recharge,270.0
+2026-10-02,Wandoor,Drawings,1200.0
+2026-10-02,Wandoor,Sauce,58.0
+2026-10-03,Wandoor,Maida,40.7
+2026-10-03,Wandoor,Lemon,49.8
+2026-10-03,Wandoor,Petrol,73.3
+2026-10-03,Wandoor,Oil,817.3
+2026-10-03,Wandoor,Branding,257.9
+2026-10-03,Wandoor,Nsquare Farms,1260.5
+2026-10-03,Wandoor,Ozone Foods,320.1
+2026-10-03,Wandoor,Recharge,191.9
+2026-10-03,Wandoor,Sauce,45.8
+2026-10-03,Wandoor,Ice Cubes,74.2
+2026-10-04,Wandoor,Maida,88.3
+2026-10-04,Wandoor,Sugar,45.1
+2026-10-04,Wandoor,Lemon,78.8
+2026-10-04,Wandoor,Chicken,468.4
+2026-10-04,Wandoor,Cheese,234.6
+2026-10-04,Wandoor,Oil,972.8
+2026-10-04,Wandoor,Branding,251.7
+2026-10-04,Wandoor,Nsquare Farms,988.4
+2026-10-04,Wandoor,French Fries,1386.4
+2026-10-04,Wandoor,Ozone Foods,527.7
+2026-10-04,Wandoor,Milk,74.6
+2026-10-04,Wandoor,Recharge,399.1
+2026-10-04,Wandoor,Drawings,1574.8
+2026-10-04,Wandoor,Sauce,81.3
+2026-10-04,Wandoor,Ice Cubes,48.0
+2026-10-05,Wandoor,Sugar,67.3
+2026-10-05,Wandoor,Lemon,61.6
+2026-10-05,Wandoor,Petrol,133.3
+2026-10-05,Wandoor,Cheese,219.5
+2026-10-05,Wandoor,Branding,263.2
+2026-10-05,Wandoor,Ozone Foods,603.6
+2026-10-05,Wandoor,Drawings,779.7
+2026-10-06,Wandoor,Petrol,83.6
+2026-10-06,Wandoor,Chicken,336.7
+2026-10-06,Wandoor,Oil,538.8
+2026-10-06,Wandoor,Branding,224.0
+2026-10-06,Wandoor,Nsquare Farms,843.3
+2026-10-06,Wandoor,French Fries,1714.7
+2026-10-06,Wandoor,Milk,92.8
+2026-10-06,Wandoor,Drawings,848.7
+2026-10-06,Wandoor,Ice Cubes,73.0
+2026-10-07,Wandoor,Maida,92.0
+2026-10-07,Wandoor,Sugar,50.4
+2026-10-07,Wandoor,Lemon,55.4
+2026-10-07,Wandoor,Petrol,64.2
+2026-10-07,Wandoor,Chicken,374.2
+2026-10-07,Wandoor,Cheese,476.0
+2026-10-07,Wandoor,Branding,313.0
+2026-10-07,Wandoor,Nsquare Farms,544.4
+2026-10-07,Wandoor,French Fries,1862.2
+2026-10-07,Wandoor,Ozone Foods,495.6
+2026-10-07,Wandoor,Milk,132.1
+2026-10-07,Wandoor,Recharge,263.7
+2026-10-07,Wandoor,Drawings,1115.6
+2026-10-07,Wandoor,Sauce,70.8
+2026-10-07,Wandoor,Ice Cubes,76.0
+2026-10-08,Wandoor,Lemon,63.8
+2026-10-08,Wandoor,Petrol,81.6
+2026-10-08,Wandoor,Chicken,629.4
+2026-10-08,Wandoor,Oil,695.7
+2026-10-08,Wandoor,Branding,250.2
+2026-10-08,Wandoor,Nsquare Farms,635.9
+2026-10-08,Wandoor,Recharge,314.5
+2026-10-08,Wandoor,Drawings,1599.4
+2026-10-08,Wandoor,Sauce,42.1
+2026-10-08,Wandoor,Ice Cubes,94.6
+2026-10-09,Wandoor,Lemon,48.7
+2026-10-09,Wandoor,Petrol,82.7
+2026-10-09,Wandoor,Chicken,336.6
+2026-10-09,Wandoor,Cheese,361.0
+2026-10-09,Wandoor,Nsquare Farms,1141.4
+2026-10-09,Wandoor,French Fries,1463.4
+2026-10-09,Wandoor,Ozone Foods,425.4
+2026-10-09,Wandoor,Milk,88.2
+2026-10-09,Wandoor,Drawings,1463.3
+2026-10-09,Wandoor,Ice Cubes,67.1
+2026-10-10,Wandoor,Maida,57.1
+2026-10-10,Wandoor,Sugar,38.6
+2026-10-10,Wandoor,Lemon,54.3
+2026-10-10,Wandoor,Petrol,85.7
+2026-10-10,Wandoor,Branding,177.0
+2026-10-10,Wandoor,Nsquare Farms,816.6
+2026-10-10,Wandoor,French Fries,1683.6
+2026-10-10,Wandoor,Ozone Foods,455.7
+2026-10-10,Wandoor,Recharge,227.8
+2026-10-10,Wandoor,Drawings,1210.3
+2026-10-11,Wandoor,Sugar,78.1
+2026-10-11,Wandoor,Lemon,74.2
+2026-10-11,Wandoor,Chicken,414.0
+2026-10-11,Wandoor,Cheese,243.6
+2026-10-11,Wandoor,Oil,847.7
+2026-10-11,Wandoor,Ozone Foods,404.4
+2026-10-11,Wandoor,Recharge,360.0
+2026-10-11,Wandoor,Drawings,1500.0
+2026-10-11,Wandoor,Ice Cubes,57.2
+2026-10-12,Wandoor,Sugar,65.7
+2026-10-12,Wandoor,Lemon,54.8
+2026-10-12,Wandoor,Chicken,793.9
+2026-10-12,Wandoor,Cheese,220.9
+2026-10-12,Wandoor,Oil,906.6
+2026-10-12,Wandoor,Branding,200.9
+2026-10-12,Wandoor,French Fries,1233.8
+2026-10-12,Wandoor,Ozone Foods,527.0
+2026-10-12,Wandoor,Recharge,323.1
+2026-10-12,Wandoor,Sauce,103.4
+2026-10-12,Wandoor,Ice Cubes,43.7
+2026-10-13,Wandoor,Maida,76.2
+2026-10-13,Wandoor,Sugar,87.7
+2026-10-13,Wandoor,Petrol,126.2
+2026-10-13,Wandoor,Branding,231.6
+2026-10-13,Wandoor,Nsquare Farms,1197.6
+2026-10-13,Wandoor,French Fries,1278.2
+2026-10-13,Wandoor,Milk,59.4
+2026-10-13,Wandoor,Recharge,290.6
+2026-10-13,Wandoor,Drawings,1557.6
+2026-10-13,Wandoor,Sauce,50.4
+2026-10-13,Wandoor,Ice Cubes,77.4
+2026-10-14,Wandoor,Maida,81.3
+2026-10-14,Wandoor,Sugar,40.0
+2026-10-14,Wandoor,Petrol,142.6
+2026-10-14,Wandoor,Chicken,691.0
+2026-10-14,Wandoor,Cheese,392.6
+2026-10-14,Wandoor,Nsquare Farms,572.5
+2026-10-14,Wandoor,French Fries,1083.8
+2026-10-14,Wandoor,Ozone Foods,345.2
+2026-10-14,Wandoor,Drawings,960.1
+2026-10-14,Wandoor,Sauce,44.7
+2026-10-14,Wandoor,Ice Cubes,92.2
+2026-10-15,Wandoor,Maida,60.2
+2026-10-15,Wandoor,Sugar,42.5
+2026-10-15,Wandoor,Lemon,64.7
+2026-10-15,Wandoor,Chicken,473.0
+2026-10-15,Wandoor,Cheese,472.7
+2026-10-15,Wandoor,Oil,868.7
+2026-10-15,Wandoor,Nsquare Farms,1280.2
+2026-10-15,Wandoor,Ozone Foods,293.0
+2026-10-15,Wandoor,Milk,131.6
+2026-10-15,Wandoor,Recharge,380.7
+2026-10-15,Wandoor,Drawings,1087.1
