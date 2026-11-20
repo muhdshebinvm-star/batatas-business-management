@@ -34,6 +34,7 @@ p, label, [data-testid="stCaptionContainer"] { font-size: 1rem !important; }
 
 st.title("🥔 Bataatas Business Management")
 st.caption("Multi-branch sales, purchase and financial operations · Wandoor · Manjeri · Thiruvali")
+branch_map = {}
 
 try:
     branches = query("SELECT branch_id, branch_name, location_note FROM branches ORDER BY branch_name")
